@@ -50,7 +50,7 @@ Before using any of the templates, ensure you have the following:
 ### Available Templates
 
 - **RAG Chatbot**: A template for building a chatbot that uses document retrieval and generation. See the `rag-chatbot` directory for details.
-- **......**
+- **Recommendation system:**:comming soon ...
 ## Contributing
 
 We welcome contributions to the templates! To contribute:
