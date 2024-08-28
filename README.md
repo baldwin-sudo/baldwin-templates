@@ -13,7 +13,9 @@ The RAG (Retrieval-Augmented Generation) Chatbot template is a ready-to-use setu
 - **Document Indexing**: Automatically index documents using Elasticsearch.
 - **AI Interaction**: Generate responses based on indexed documents using a RAG model.
 - **Streamlit Interface**: An easy-to-use web interface for interacting with the chatbot.
+### Recommendation System
 
+comming soon ...
 ## Getting Started
 
 ### Prerequisites
@@ -50,7 +52,7 @@ Before using any of the templates, ensure you have the following:
 ### Available Templates
 
 - **RAG Chatbot**: A template for building a chatbot that uses document retrieval and generation. See the `rag-chatbot` directory for details.
-- **Recommendation system:**:comming soon ...
+- **Recommendation system:**comming soon ...
 ## Contributing
 
 We welcome contributions to the templates! To contribute:
