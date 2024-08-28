@@ -1,0 +1,14 @@
+openai==0.28
+llama-index-core
+llama-parse 
+llama-index-readers-file 
+python-dotenv
+argparse
+numpy==1.23.5
+elasticsearch==7.9.0
+pandas
+sentence-transformers
+tqdm
+streamlit
+langchain
+langchain_community

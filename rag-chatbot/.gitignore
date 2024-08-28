@@ -1,0 +1,4 @@
+texts/*
+pdfs/*
+.env
+__pycache__/*
